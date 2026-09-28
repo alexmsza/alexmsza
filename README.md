@@ -1,89 +1,106 @@
+<div align="center">
+
 # Olá, Mundo! 👋 Eu sou Alex Souza
 
-### 🚀 Engenheiro de Dados & BI | Especialista em Soluções de IA
+### 🚀 Tech Lead & Engenheiro de Software | IA Aplicada, Modern Data & Cloud
 
-Sou um **Programador de Sistemas** focado em DataSecAIOps, infraestrutura automatizada e pipelines de dados eficientes sob a filosofia open-source (*Bit de Guerrilha*). Desenvolvo ecossistemas de dados robustos utilizando ferramentas modernas de ingestão, transformação e orquestração.
+Recife, PE — Brasil 🇧🇷
 
-🚀 Explore minha jornada  
-[![Linktree Badge](https://img.shields.io/badge/Linktree-Click%20Here-green)](https://linktr.ee/alexsouza01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexmiqueias/)
+[![Linktree](https://img.shields.io/badge/Linktree-alexsouza01-43E660?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/alexsouza01)
+[![Email](https://img.shields.io/badge/Email-alexkrypto.ti@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexkrypto.ti@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-alexmsza-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexmsza)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre Mim
+
+Sou **Tech Lead e Engenheiro de Software Full-Stack** com atuação focada em arquiteturas escaláveis, ecossistemas modernos de dados, cibersegurança e engenharia de inteligência artificial aplicada à tomada de decisão de negócios.
+
+Combino experiência sólida na modelagem e automação de pipelines de alta performance com a criação de produtos digitais robustos (SaaS B2B, protocolos descentralizados e frameworks locais de IA). Tenho como princípio construir soluções pragmáticas, seguras e com governança estrita de privacidade (LGPD/GDPR by Design).
+
+- 🏢 **Fundador** na [Sousza Consultoria Inteligente](https://github.com/alexmsza/alex-souza-tech-ia) — Engenharia de software ágil, Modern Data Stack, integrações de WhatsApp e aceleração digital.
+- 🎓 **Co-founder & Tech Lead** na Jovian Tech — Arquitetura de soluções descentralizadas de confiança e integridade documental ([LattesChain](https://github.com/alexmsza/LattesChain)).
+- 📍 **Base:** Recife/PE, conectado a desafios globais de tecnologia e ecossistemas open-source.
+
+---
+
+## 🌟 Projetos em Destaque
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d2e47760-db1d-4c01-a4d5-19455d818136" alt="Designer (3)" width="400" style="border-radius: 15px;"/>
+
+| Projeto | Descrição & Arquitetura | Stack Principal | Repositório |
+| :--- | :--- | :--- | :---: |
+| **LattesChain** | **Passaporte Acadêmico Global Descentralizado**<br>Protocolo de autenticação criptográfica de diplomas e certificados ancorado na Solana. Emissão via Token-2022 Soulbound, validação em <400ms e IA curricular para cálculo de equivalência de disciplinas. Submetido ao Superteam Brasil. | `Solana` `SAS` `Token-2022` `Rust/Anchor` `Next.js 14` `Gemini 1.5 Pro` `Supabase` | [Acessar](https://github.com/alexmsza/LattesChain) |
+| **DECISOR.AI** | **Plataforma Executiva de Apoio à Decisão B2B**<br>SaaS multi-tenant com conector de banco de dados seguro read-only (`SELECT-only` com disjuntor de performance AST), conformidade LGPD em tempo real e entrega de diagnósticos e recomendações executivas via WhatsApp e Web. | `Next.js 14` `TypeScript` `Supabase (RLS)` `Groq LPU (Llama 3.3)` `Evolution API` | [Acessar](https://github.com/alexmsza/decisor-ai) |
+| **Kevil** | **Sec Analyst SLM Runner & Pentest Operations**<br>Framework de orquestração de Small Language Models (SLMs) locais calibrados para testes de intrusão, auditoria e SAST em CPUs/hardware com restrição de RAM, com servidor MCP nativo (`Model Context Protocol`). | `Python (uv)` `Ollama` `MCP Server` `Small Language Models` `CLI Interactive` | [Acessar](https://github.com/alexmsza/kevil) |
+| **Sousza Consultoria** | **Plataforma Institucional & Hub de Negócios**<br>Ecossistema corporativo com design tokens modernos, backend serverless com Supabase, rotinas automatizadas e pipeline de atendimento humanizado. | `HTML5 Semântico` `CSS Tokens` `JavaScript ES6+` `Supabase` `Vercel` | [Acessar](https://github.com/alexmsza/alex-souza-tech-ia) |
+| **InteliPol** | **Registro Inteligente e Humanizado de Ocorrências**<br>Plataforma orientada ao cidadão para otimização de atendimentos públicos com inteligência aplicada. **1º Lugar no Hackathon Cidades Inteligentes**. | `Python` `APIs REST` `Data Pipelines` `UX/UI Design` | [Acessar](https://github.com/alexmsza/InteliPol) |
+
 </div>
 
 ---
 
 ## 🛠️ Stack Tecnológica & Competências
 
-| Categoria | Tecnologias e Ferramentas |
+```
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │                           CORE EXPERTISE                                │
+  ├─────────────────────────────────────────────────────────────────────────┤
+  │  • Modern Full-Stack (Next.js 14, TypeScript, Tailwind CSS, Supabase)   │
+  │  • AI Engineering & Local SLMs (Ollama, Groq LPUs, Gemini, MCP Servers)  │
+  │  • Modern Data Stack (Python uv, PostgreSQL, DuckDB, dbt, Airflow)      │
+  │  • Cloud & DevOps (Docker, Kubernetes, Terraform, GCP, AWS, OCI, Linux) │
+  │  • Web3 & Criptografia (Solana, Token-2022, SAS, Anchor Rust, SHA-256)   │
+  └─────────────────────────────────────────────────────────────────────────┘
+```
+
+| Domínio | Ferramentas & Tecnologias |
 | :--- | :--- |
-| **Linguagens** | `Python`, `SQL`, `Java` |
-| **Engenharia de Dados** | `dbt`, `Apache Airflow`, `Apache Spark`, `Pandas`, `Meltano` |
-| **Infraestrutura & Cloud** | `Docker`, `Terraform`, `Google Cloud (GCP)`, `AWS`, `Azure`, `Snowflake` |
-| **Bancos de Dados** | `PostgreSQL`, `DuckDB`, `SQLite` |
-| **Sistemas Operacionais** | `Linux` (Arch, Debian, Alpine) |
+| **Linguagens** | `Python` (gerenciamento via `uv`), `TypeScript`, `JavaScript (Node.js/Bun)`, `Go (Golang)`, `Rust`, `SQL` |
+| **Engenharia de IA & LLMs** | `Model Context Protocol (MCP)`, `Ollama (SLMs Locais)`, `Groq Cloud LPU`, `Google Gemini API`, `Fine-Tuning Pipelines`, `Prompt Engineering` |
+| **Full-Stack & Web** | `Next.js 14 (App Router)`, `React`, `Tailwind CSS`, `Supabase (PostgreSQL, Auth & RLS)`, `REST APIs`, `Webhooks` |
+| **Engenharia de Dados** | `PostgreSQL`, `DuckDB`, `SQLite`, `dbt`, `Apache Airflow`, `Apache Spark`, `Databricks`, `Pandas`, `Meltano` |
+| **Infraestrutura & Cloud** | `Docker`, `Docker Compose`, `Kubernetes (K8s)`, `Terraform`, `Google Cloud (GCP)`, `Oracle Cloud (OCI)`, `AWS`, `Vercel` |
+| **Cibersegurança & Práticas** | `Privacy by Design (LGPD/GDPR)`, `SAST / Code Audit`, `OWASP Top 10`, `Disjuntores AST para Banco de Dados`, `Criptografia AES-256 / SHA-256` |
+| **Sistemas & Ambientes** | `Linux` (Debian, Arch, Alpine, Ubuntu Server), `Bash`, `PowerShell`, `Git / GitHub Actions` |
 
 ---
 
-## 🏆 Conquistas Recentes & Hackathons
+## 🏆 Conquistas, Hackathons & Reconhecimentos
 
-* **1º Lugar** – Hackathon Cidades Inteligentes (Projeto: InteliPol) \| 2025
-* **3º Lugar** – Hacker Cidadão 13.0 (Estratégia orientada a dados e Visão Computacional para gestão de resíduos)
-* **Monitor** – Minicurso de IA e Redes Neurais na 77ª Reunião Anual da SBPC \| 2025
-* **Participante** – Hacker Cidadão 12.0 & NASA Space Apps Recife \| 2025
-
----
-
-## 💼 Experiência Profissional
-
-### **Co-founder & Data Engineer** – Jovian \| (01/2026 – Presente)
-* Co-fundação de consultoria técnica focada em desenvolvimento de software e arquitetura de dados eficiente.
-* Modelagem e automação de pipelines de dados sob medida para parceiros de negócio.
-
-### **Analista de Sistemas / Dev BI & Integrações** – Construtora Baptista Leal \| (Concluído em 05/2026)
-* Desenvolvimento de pipelines de dados e dashboards estratégicos em Power BI.
-* Criação de integrações de sistemas internas para otimização de rotinas operacionais e relatórios executivos.
-
-### **Engenheiro de Dados** – Indicium Tecnologia de Dados \| (11/2024 – 02/2025)
-* Implantação de governança de dados estruturada utilizando Terraform e ecossistema Azure.
-* Configuração e tunagem de clusters no Databricks para processamento distribuído.
-* Automação e orquestração de pipelines de dados complexos via Databricks.
-
-### **Técnico em Informática** – Fundação Manoel da Silva Almeida \| (06/2023 – 11/2024)
-* Administração de sistemas baseados em servidores Linux e infraestrutura de rede local.
-* Manipulação de bases de dados relacionais complexas via SQL e rotinas de manutenção preventiva.
+* 🥇 **1º Lugar** – *Hackathon Cidades Inteligentes* (Projeto: **InteliPol**) \| 2025
+* 🥉 **3º Lugar** – *Hacker Cidadão 13.0* (Estratégia de dados e Visão Computacional para gestão de resíduos sólidos)
+* 🚀 **Submissão Destaque** – *Hackathon Universitário Superteam Brasil* (Projeto: **LattesChain** na rede Solana) \| 2026
+* 🎓 **Monitor Convidado** – *Minicurso de IA e Redes Neurais* na 77ª Reunião Anual da SBPC \| 2025
+* 🛰️ **Participante** – *Hacker Cidadão 12.0* & *NASA Space Apps Recife* \| 2025
 
 ---
 
-## 🎓 Formação Acadêmica
+## 💼 Trajetória Profissional
 
-* **Tecnólogo em Big Data e Inteligência Analítica** – Uniasselvi (08/2024 – 02/2027)
-* **Bacharelado em Public Administration** – IFNMG (Em andamento)
-* **Curso Técnico em Inteligência Artificial** – IFNMG (Em andamento)
-* **Curso Técnico em Informática para Internet** – (Previsão de conclusão: 04/2027)
-
----
-
-## 📜 Certificações Técnicas de Destaque
-
-* **Formação em Engenharia de Analytics** – Indicium Academy (2025)
-* **dbt de A a Z** – Indicium Academy (2025)
-* **Engenharia de Plataforma** – CESAR School (2024)
-* **AWS Cloud Practitioner Essentials** – Estácio (2024)
-* **DevOps com Docker e Jenkins** – Senai (2024)
+- **Fundador & Arquiteto de Software** — [Sousza Consultoria Inteligente](https://github.com/alexmsza/alex-souza-tech-ia) *(2026 – Presente)*
+  - Liderança técnica no desenvolvimento de aplicações corporativas, automação de processos de atendimento via WhatsApp, MVPs ágeis e arquiteturas modernas de dados.
+- **Co-founder & Tech Lead** — Jovian Tech *(2026 – Presente)*
+  - Arquitetura e lançamento de protocolos de validação documental descentralizada e ecossistemas corporativos baseados em inteligência artificial.
+- **Analista de Sistemas / Dev BI & Integrações** — Construtora Baptista Leal *(Concluído em 05/2026)*
+  - Implementação de pipelines automatizados de dados, dashboards estratégicos e integrações de sistemas internos (CRMs e ERPs).
 
 ---
 
-## 🧠 Interesses e Filosofia Pessoal
+## 📊 Estatísticas do GitHub
 
-* **Bit de Guerrilha:** Engenharia eficiente aplicada ao open-source, priorizando otimização extrema e o uso inteligente de hardware limitado.
-* **Teoria & Cultura:** Estudos contínuos em Filosofia Existencialista (Albert Camus, Friedrich Nietzsche).
-* **Música:** Praticante de gaita diatônica (Tom de Sol) e guitarrista (entusiasta de Doom Metal, Sludge e Stoner Rock).
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alexmsza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alex Souza GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmsza&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=alexmsza" alt="Top Languages" height="165" />
+
+</div>
 
 ---
 
-## 📫 Vamos Conversar?
-
-Estou disponível para atuar em projetos complexos envolvendo **Engenharia de Dados**, **Analytics Engineering** e **BI**.
-
-[![Linktree Badge](https://img.shields.io/badge/Linktree-Click%20Here-green?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/alexsouza01)
+<div align="center">
+  <sub>Construindo soluções resilientes com código limpo, segurança e inteligência na prática.</sub>
+</div>
