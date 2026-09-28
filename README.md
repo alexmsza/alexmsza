@@ -94,8 +94,12 @@ Combino experiência sólida na modelagem e automação de pipelines de alta per
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alexmsza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alex Souza GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmsza&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=alexmsza" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=alexmsza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Alex Souza GitHub Stats" height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alexmsza&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=alexmsza" alt="Top Languages" height="165" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=alexmsza&theme=tokyonight&hide_border=true" alt="Alex Souza Streak Stats" />
 
 </div>
 
